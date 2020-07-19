@@ -1,0 +1,82 @@
+using System;
+using System.IO;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PCT
+{
+    class dp
+    { 
+        static void lcs(String X, String Y)
+        {
+            int m = X.Length;
+            int n = Y.Length;
+            int[,] L = new int[m + 1, n + 1];
+  
+            for (int i = 0; i <= m; i++)
+            {
+                for (int j = 0; j <= n; j++)
+                {
+                    if (i == 0 || j == 0)
+                        L[i, j] = 0;
+                    else if (X[i - 1] == Y[j - 1])
+                        L[i, j] = L[i - 1, j - 1] + 1;
+                    else
+                        L[i, j] = Math.Max(L[i - 1, j], L[i, j - 1]);
+                }
+            }
+ 
+            int index = L[m, n];
+            int temp = index;
+
+            char[] lcs = new char[index + 1];
+ 
+            lcs[index] = '\0'; // Set the terminating character
+ 
+            int k = m, l = n;
+            while (k > 0 && l > 0)
+            { 
+                if (X[k - 1] == Y[l - 1])
+                { 
+                    lcs[index - 1] = X[k - 1];
+ 
+                    k--;
+                    l--;
+                    index--;
+                }
+ 
+                else if (L[k - 1, l] > L[k, l - 1])
+                    k--;
+                else
+                    l--;
+            }
+
+            // Print the lcs 
+            Console.Write("LCS of " + X + " and " + Y + " is \n");
+            Console.BackgroundColor=ConsoleColor.Yellow;
+            for (int q = 0; q <= temp; q++)
+            {
+                Console.Write(lcs[q]);
+            }
+            Console.ResetColor();
+            Console.Write("\nLength of LCS is ");
+            Console.Write(temp); // Print the length of lcs 
+            Console.ReadLine();
+        }
+        public static void Main(string[] args)
+        {
+           string X = System.IO.File.ReadAllText(@"D:\OYE\aoa\aoa proj\plg\plg\X.txt");
+           string Y = System.IO.File.ReadAllText(@"D:\OYE\aoa\aoa proj\plg\plg\Y.txt");
+           lcs(X,Y);
+        }
+        // Driver program to take inputs as a sring from console.
+        /*public static void Main()
+        {
+            String X = Console.ReadLine();
+            String Y = Console.ReadLine();
+            lcs(X, Y);
+        }*/
+    }
+}
