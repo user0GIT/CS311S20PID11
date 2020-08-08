@@ -1,0 +1,73 @@
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form1.resources
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form2.resources
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe.config
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.pdb
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.exe
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.pdb
+C:\Users\HP\OneDrive\Desktop\AOA_INTERFACE\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csprojResolveAssemblyReference.cache
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe.config
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.pdb
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form1.resources
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form2.resources
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Properties.Resources.resources
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.GenerateResource.Cache
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.exe
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.pdb
+E:\NAEEM\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csprojResolveAssemblyReference.cache
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe.config
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.exe
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.pdb
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.pdb
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csprojResolveAssemblyReference.cache
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form1.resources
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form2.resources
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Properties.Resources.resources
+D:\NNN Naeem\4 semester\AOA\Project\AOA_INTERFACE - Copy\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.GenerateResource.Cache
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe.config
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.exe
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.pdb
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.pdb
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csprojResolveAssemblyReference.cache
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form1.resources
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form2.resources
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Properties.Resources.resources
+D:\NNN Naeem\4 semester\AOA\Project\Plagiarism Checker\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe.config
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.pdb
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form1.resources
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form2.resources
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Properties.Resources.resources
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.exe
+C:\Users\HP\Downloads\Compressed\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.pdb
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe.config
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.pdb
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csprojAssemblyReference.cache
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form1.resources
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form2.resources
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Properties.Resources.resources
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.GenerateResource.cache
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.exe
+C:\Users\Muhammad Haroon\Desktop\uni\OYE\Plagiarism Checker Application-Updated\Plagiarism Checker Application-20200807T040453Z-001\Plagiarism Checker Application\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.pdb
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe.config
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.exe
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\bin\Debug\AOA_INTERFACE.pdb
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csprojAssemblyReference.cache
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form1.resources
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Form2.resources
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.Properties.Resources.resources
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.GenerateResource.cache
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.exe
+C:\Users\Muhammad Haroon\Desktop\uni\Work\Plagiarism Checker Application-Updated\AOA_INTERFACE\obj\Debug\AOA_INTERFACE.pdb
